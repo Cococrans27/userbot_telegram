@@ -1,10 +1,10 @@
 from telethon import TelegramClient, events
 
-api_id = '26993697'
-api_hash = '4e01bdf8049b3c716ba2ce96b9238886'
+api_id = 'iSI_API_ID_KAMU'
+api_hash = 'ISI_API_HASH_KAMU'
 
-ADMIN_IDS = [1507577220]  # Ganti dengan user_id admin kamu
-MESSAGE_TEXT = "Yang gabut sini gabung ke bio ngobrol santai becek😜😜"
+ADMIN_IDS = [ISI_ID_KAMU]  # Ganti dengan user_id admin kamu
+MESSAGE_TEXT = "TEKS YANG AKAN DI KIRIM"
 bot_active = False
 sent_groups = set()
 
