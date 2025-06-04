@@ -16,8 +16,8 @@ Userbot ini akan mengirim pesan otomatis ke grup Telegram (kecuali grup yang dik
 
 1. **Clone repo & install dependensi**
     ```bash
-    git clone <repo-anda>
-    cd <repo-anda>
+    git clone https://github.com/Cococrans27/userbot_telegram.git
+    cd userbot_telegram
     pip install telethon
     ```
 
